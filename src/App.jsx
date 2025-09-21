@@ -25,6 +25,7 @@ function App() {
     <>
       <div className='flex justify-center my-40'>
         <div id='box' className="flex max-w-md flex-col gap-4 rounded-xl">
+          <h1 className='text-center text-green-200 text-3xl pb-4'>Discount Calculator</h1>
           <div>
             <div className="mb-2 block text-3xl">
               <Label htmlFor="" className='text-4xl' color="success">
