@@ -1,0 +1,10 @@
+body{
+  background-color: rgb(9, 10, 11);
+}
+#box{
+  background-color: rgba(50, 78, 73, 0.21);
+  box-shadow: 4px 4px 4px rgb(27, 69, 27);
+  width: 500px;
+  padding: 60px;
+  border: 2px solid rgba(92, 215, 92, 0.332);
+}
